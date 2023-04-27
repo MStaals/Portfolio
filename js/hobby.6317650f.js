@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvueproject"]=self["webpackChunkvueproject"]||[]).push([[813],{749:function(e,n,r){r.r(n),r.d(n,{default:function(){return f}});var t=r(252);const u={class:"hobby"};function c(e,n){return(0,t.wg)(),(0,t.iD)("div",u)}var s=r(744);const o={},a=(0,s.Z)(o,[["render",c]]);var f=a}}]);
+//# sourceMappingURL=hobby.6317650f.js.map
