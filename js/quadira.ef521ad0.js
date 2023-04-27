@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvueproject"]=self["webpackChunkvueproject"]||[]).push([[326],{17:function(e,n,r){r.r(n),r.d(n,{default:function(){return f}});var u=r(252);const a={class:"quadira"},t=(0,u._)("h1",null,"This is an Quadira page",-1),c=[t];function s(e,n){return(0,u.wg)(),(0,u.iD)("div",a,c)}var i=r(744);const o={},d=(0,i.Z)(o,[["render",s]]);var f=d}}]);
+//# sourceMappingURL=quadira.ef521ad0.js.map

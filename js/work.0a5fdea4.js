@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvueproject"]=self["webpackChunkvueproject"]||[]).push([[601],{9868:function(e,n,r){r.r(n),r.d(n,{default:function(){return k}});var u=r(3396);const t={class:"work"},c=(0,u._)("h1",null,"This is an Work page",-1),s=[c];function a(e,n){return(0,u.wg)(),(0,u.iD)("div",t,s)}var o=r(89);const i={},f=(0,o.Z)(i,[["render",a]]);var k=f}}]);
+//# sourceMappingURL=work.0a5fdea4.js.map
