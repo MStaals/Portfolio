@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvueproject"]=self["webpackChunkvueproject"]||[]).push([[813],{2578:function(e,n,r){r.r(n),r.d(n,{default:function(){return i}});var u=r(3396);const t={class:"hobby"},c=(0,u._)("p",null,"hallo",-1),o=[c];function s(e,n){return(0,u.wg)(),(0,u.iD)("div",t,o)}var a=r(89);const l={},f=(0,a.Z)(l,[["render",s]]);var i=f}}]);
+//# sourceMappingURL=hobby.bd88cf18.js.map
